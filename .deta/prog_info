@@ -1,1 +1,0 @@
-{"id":"f8998299-76b7-48ba-a06b-78f3fc6eafbe","space":42043,"runtime":"python3.9","name":"team-quest","path":"m22itz","project":"a0je895m","account":"144798365827","region":"eu-central-1","deps":["fastapi","uvicorn","pydantic","python-jose[cryptography]","passlib[bcrypt]","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}
